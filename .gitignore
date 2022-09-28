@@ -1,0 +1,5 @@
+# Ignore node module files
+node_modules
+
+# Ignore MAC system files
+.DS_store
